@@ -1,0 +1,70 @@
+================================================================================
+ADVANCED MULTIMODAL NOVEL ANALYSIS - SUMMARY REPORT
+================================================================================
+
+Novel Concept: Karnataka, the land of glory
+
+Analysis Date: 2025-09-17 12:49:43
+
+--------------------------------------------------
+GENERATED CONTENT SUMMARY
+--------------------------------------------------
+
+Novel Excerpt (104 words):
+"Crimson sun bled across the Western Ghats, painting the emerald slopes in hues of fire and shadow.  A symphony of cicadas filled the humid air, a buzzing counterpoint to the distant, rhythmic clang of temple bells.  The scent of jasmine, thick and intoxicating, clung to the warm breeze, a heady perfume promising secrets untold.  Ancient granite, worn smooth by centuries of monsoon rains, cooled the skin beneath a traveller's touch. This was Karnataka, a land steeped in the echoes of forgotten empires, where the pulse of the past beat strong in the heart of the present, a vibrant tapestry woven from myth and majesty."
+
+--------------------------------------------------
+QUANTITATIVE ANALYSIS SUMMARY
+--------------------------------------------------
+
+TEXT FEATURES:
+  • Word Count: 104
+  • Average Sentence Length: 20.8
+  • Color Richness Score: 0.100
+  • Dominant Emotion: Joy (0.000)
+
+IMAGE FEATURES:
+  • Brightness: 65.47
+  • Contrast: 50.68
+  • Color Warmth: 0.159
+  • Edge Intensity: 3.28
+
+AUDIO FEATURES:
+  • Tempo: 87.2 BPM
+  • Duration: 15.1 seconds
+  • RMS Energy: 0.0353
+  • Harmonic Ratio: 0.999
+
+--------------------------------------------------
+CORRELATION ANALYSIS SUMMARY
+--------------------------------------------------
+
+Average Cross-Modal Correlation: 0.013
+Correlation Strength: Weak
+
+Top 3 Strongest Correlations:
+  1. Text ↔ Image: 0.040
+  2. Image ↔ Image: 0.017
+  3. Text ↔ Image: -0.016
+
+--------------------------------------------------
+FILES GENERATED
+--------------------------------------------------
+
+  • advanced_main_dashboard.png
+  • analysis_summary_report.txt
+  • comprehensive_analysis_data.json
+  • correlation_analysis_dashboard.png
+  • correlation_network.html
+  • cosine_similarity_matrix.csv
+  • euclidean_similarity_matrix.csv
+  • feature_analysis_dashboard.png
+  • generated_image.png
+  • generated_music.wav
+  • interactive_3d_correlations.html
+  • pearson_correlation_matrix.csv
+  • text_analysis_dashboard.png
+
+--------------------------------------------------
+ANALYSIS COMPLETE
+--------------------------------------------------

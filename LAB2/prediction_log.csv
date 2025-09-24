@@ -1,0 +1,5 @@
+timestamp,study_hours,attendance,previous_gpa,age,prediction,probability,model_prediction,model_probability,final_prediction,final_probability,attendance_rule_applied,attendance_threshold_met
+2025-09-24 11:40:41,10.0,35.0,3.2,21,PASS,0.9534726,,,,,,
+2025-09-24 11:41:19,0.5,24.0,2.3,18,FAIL,0.4875656068325043,,,,,,
+2025-09-24 11:42:08,14.0,20.0,3.0,18,PASS,0.9978262186050416,,,,,,
+2025-09-24 11:45:22,15.0,20.0,4.0,23,,,PASS,0.9943453,FAIL,0.3,True,False
