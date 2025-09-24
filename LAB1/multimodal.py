@@ -35,7 +35,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # --- 1. ENHANCED CONFIGURATION ---
-GOOGLE_API_KEY = "AIzaSyDFs6XbvLFFdwU_RoYnZwT1rriQdgDzFx8"
+GOOGLE_API_KEY = "GOOGLE_API_KEY"
 
 try:
     genai.configure(api_key=GOOGLE_API_KEY)
