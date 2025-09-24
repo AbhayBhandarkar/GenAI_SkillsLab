@@ -254,9 +254,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 **Academic Performance Prediction Model**
-- LinkedIn: [Your LinkedIn Profile]
-- Email: your.email@example.com
-- GitHub: [Your GitHub Profile]
+- Email: abhaybhandarkar@gmail.com
 
 ## Acknowledgments
 
